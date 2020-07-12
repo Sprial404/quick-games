@@ -1,0 +1,9 @@
+[package]
+name = "snake"
+version = "0.1.0"
+authors = ["Sprial404 <1sprial404@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7"
+ggez = "0.5"
